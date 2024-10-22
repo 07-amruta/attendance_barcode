@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lab-attendance-439409",
+  "private_key_id": "308fc8515cfc1bdf724a7b4d5ae53d213ab39d72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVZpaCb+tTGRv6\nDyU+GOjJqQszVslxtWqoCn2h0mRbP1hp0I0j8otci2uDIFNyfzilKD8lefBa+UyM\n0L/tL7J2m8FNfSkq11y7t8FmzWqBU8Bb6kPITAPu+TtiDCjdnkIeKBeX0V69UTPh\neNiu/e5uKIow8T+Emi6YLKM9ruKeWQMO6EuaMp24OIzEWJTsZTImp4wsKhMi14QL\n0you+CA9vIsVmh19tuY5plPFxvtBOjmKkxV8VGxefb4ezF4uGtpFYXGNEYc3Zx+f\n3eTELe88K/6wf/NAJUGQD2Vo3yT1+I4j/txNouEZAQ1TY1TUXBZ42Bbiyud5A+jk\nry4beJCDAgMBAAECggEAAj2qrkQtfG6Y+9Q0U80d2MB/WYLIvLri4aheoAm+1ZuK\noPOu2kYuDvJMZ4gZmFMOL3P+FnrQvxyUKFyNNGqNu7e0W4wwDON0EaC89uTH3y65\naOeHor55JKF6YYsbJc/U4Azr5awPRrmsFIqyfVVzuRVElV1Y/Y0ue7vXqvovjf5z\n7Sg375OWS8z1fqH6ViR7QiTiV9dMpmycGQcF6ZIX32tkBIbR02lCR0OITzCBcilL\n8heXUcvjxAj2U5qpsD3jsOQ27wPV0IfM7R7lP8EJk3VrZTpwPOV6qyecHYam2gAW\n5QrxdQCjO3c1wccNmpELdHWve46tRbKIY2k7j+ZHEQKBgQDLqurzDKfebI0EJRXC\nDV/vLhiyQD9fKnq5LVL3D9G+iWr7wRQ1XleMwsHtb1yIwEO6/EkJR9fCWn/0gOg9\nkfvKp3cRD6RZOW63G3P7r4h8zVn6ezzkbomE0wWD72ZXQfULBMHxHdzU6Eg7W4m4\nILf6OR8dautig6hJRRqMESG8GQKBgQC7ygoVJ9bTP10Rc+gz+qxZ/G1jwldvB2ZK\n1Vq2vkT/IRvMSqtRA76/J8WFI/DsNcQ0O5gRkrUHyfym1Rq9rB4JbHV9mReLITpw\nFxSni1OWPh8kEmhwIaIZzmorI9oa4Vfq/4IP68cHNx4RhAJmXxf+sHN0lk00IOZo\nsBYSgrLE+wKBgEhleR7sYL+v1nCivhk8p91dhWnXbK9najho5BTuiqAwONdEyuot\nnvFqSYUdEMeLkIfnJg8meoubn+BJ8kPwoJBo9uoZpVISGEj+eTv+KYYzeMiRBhQt\nNrUATfWYI8jgqTpBdq8+7kDAUOzInSvWdY98vpK2bvWV1zw0VDt124gBAoGBAJ6R\nZOAmSs0IJSM2ly1FD0HQ1+Gz2baELgkkjTvgAEzafSmNJ4n6OpgZEj1xct9SK0Hb\nzHWSRtCz62ZIbhMZAif88FzE589wmHLL2oH7MPKdtBf2fz+n9sQJuzaASIwIGf/y\nDrY45k+eaAJsUMZ2p8FE58jbnYdV/JkLjyfEOwX/AoGASJgdsH9wi4a74mHeHMhs\n5vDEGbGmcs6UzFA5qcXnpalfdywX0GcWRrkP+je804EyL4Pgz/UmMPoq2UhHnGAR\nlTak//TKteWU/0KR/42YzDDuHyerw+/7EIUXOy9xzCDNW4g0UzxF8hVWhctPKrlt\nPuVlE2XyZTc1v2/cfLoQK2c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "amruta-panda@lab-attendance-439409.iam.gserviceaccount.com",
+  "client_id": "110758558699723551068",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amruta-panda%40lab-attendance-439409.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
