@@ -32,12 +32,12 @@ barcode_database = {
 }
 
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("lab-attendance-439409-308fc8515cfc.json", scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name("lab-attendance-439409-87f17825e074.json", scope)
 client = gspread.authorize(creds)
 
 sheet = client.open("Attendance Sheet").sheet1  
 
-cap = cv2.VideoCapture(2)  
+cap = cv2.VideoCapture(0)  
 cap.set(3, 640)  
 cap.set(4, 480) 
 
